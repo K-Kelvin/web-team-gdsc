@@ -60,3 +60,10 @@ section {
 .text-container {
     font-size: 2rem; /* 32px */
 }
+
+#btn {
+    padding: 8px 16px;
+    color: white;
+    background-color: blue;
+    font-size: 2rem;
+}
